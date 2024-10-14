@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm actively expanding my knowledge in the realms of IoT and AI.<br>🤔 I'm on the lookout for assistance in my DevOps journey.<br>💬 Feel free to inquire about Javascript, Flask or any technology-related topics.<br>📫 You can connect with me through the social links provided below.<br>
+🌱 I'm actively expanding my knowledge in the realms of IoT and AI.<br>💬 Feel free to inquire about Javascript, Flask or any technology-related topics.<br>📫 You can connect with me through the social links provided below.<br>
 
 
 ## 🌐 Socials:
